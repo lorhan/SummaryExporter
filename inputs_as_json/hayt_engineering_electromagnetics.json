@@ -1,0 +1,84 @@
+[
+    {"chapter":"1 Vector Analysis","pgNom":1}
+    ,{"section":"1.1 Scalars and Vectors", "pgNom":1}
+    ,{"section":"1.2 Vector Algebra", "pgNom":2}
+    ,{"section":"1.3 The Rectangulara Coordinate System", "pgNom":3}
+    ,{"section":"1.4 Vector Component and Unit Vectors", "pgNom":5}
+    ,{"section":"1.5 The Vector Field", "pgNom":8}
+    ,{"section":"1.6 The Dot Product", "pgNom":9}
+    ,{"section":"1.7 The Cross Product", "pgNom":11}
+    ,{"section":"1.8 Other Coordinate Systems: Circular Cylindrical Coordinates", "pgNom":13}
+    ,{"section":"1.9 The Spherical Coordinate System", "pgNom":18}
+    ,{"section":"References", "pgNom":22}
+    ,{"section":"Chapter 1 Problems", "pgNom":22}
+    ,{"chapter":"2 Coulomb's Law and Electric Field Intensity","pgNom":26}
+    ,{"section":"2.1 The Experimental Law of Coulomb", "pgNom":26}
+    ,{"section":"2.2 Electric Field Intensity", "pgNom":29}
+    ,{"section":"2.3 Field Arising from a Continuous Volume Charge Distribution", "pgNom":33}
+    ,{"section":"2.4 Field of a Line Charge", "pgNom":35}
+    ,{"section":"2.5 Field of a Sheet of Charge", "pgNom":39}
+    ,{"section":"2.6 Streamlines and Sketches of Fields", "pgNom":41}
+    ,{"section":"References", "pgNom":44}
+    ,{"section":"Chapter 2 Problems", "pgNom":44}
+    ,{"chapter":"3 Electric Flux Density, Gauss’s Law, and Divergence","pgNom":48}
+    ,{"ex":"D3.1. Given 60uC charge at origin, find elec. flux through following surfaces", "pgNom":51}
+    ,{"ex":"D3.2 Calculate D at P produced by diff. types of charge config", "pgNom":51}
+    ,{"ex":"Ex 3.1 Gauss's Law: charge at origin, spherical surface", "pgNom":54}
+    ,{"ex":"D3.3 Given D, find E at P, charge within sphere, flux leaving sphere", "pgNom":55}
+    ,{"ex":"D3.4 Calculate flux leaving Cube, produced by diffent charge configs", "pgNom":55}
+    ,{"ex":"Ex 3.2 Gauss Law: Coaxial Cable", "pgNom":60}
+    ,{"ex":"D3.5 Calculate D produced by multiple uniform surface charge densities", "pgNom":60}
+    ,{"ex":"Ex 3.3 Incremental volume: find enclosed charge, D with exp and trig", "pgNom":63}
+    ,{"ex":"D3.6 Given D, find flux through surface, E at P, approx charge in for increm. volume", "pgNom":64}
+    ,{"ex":"Ex 3.4 Find divD at origin, given D (exp and trig)", "pgNom":66}
+    ,{"ex":"D3.7 Find numeric divD at P, for different D and P", "pgNom":66}
+    ,{"ex":"D3.8 Find expression for vol charge density for different D ", "pgNom":67}
+    ,{"ex":"Ex 3.5 Divergence Theorem: (parallelepiped) evaluate both sides of Div Theo for a given D", "pgNom":69}
+    ,{"ex":"D3.9 Divergence Theorem: (cylinder) evaluate both sides of Div Theo for a given D", "pgNom":70}
+    ,{"section":"4 Energy and Potential", "pgNom":75}
+    ,{"ex":"D4.1 Find differential ammount of work done by movement of charge, given E", "pgNom":77}
+    ,{"ex":"Ex 4.1 Find work in carrying charge between two points along a curve (arc of circle), given E", "pgNom":79}
+    ,{"ex":"Ex 4.2 Find work in carrying charge between two points along a straight line, given E", "pgNom":82}
+    ,{"ex":"D4.2 Find work in moving a charge between two points along a path, given E", "pgNom":82}
+    ,{"ex":"D4.3 Find work in moving a charge between two points along a (closed) path, given E", "pgNom":82}
+    ,{"ex":"D4.4 Find the potential difference between two points, also find potential for a known potential difference", "pgNom":84}
+    ,{"ex":"D4.5 Calculate potential at point P, given charge at origin and V at other pts", "pgNom":85}
+    ,{"ex":"Ex 4.3 Find V on the z axis due to charge density (ring in z=0 plane)", "pgNom":87}
+    ,{"ex":"D4.6 Find potential at P, given V0 at infinity and different charge configs (circle, point charge, line segment)", "pgNom":89}
+    ,{"ex":"Ex 4.4 Find V, abs(E), angle(E), D, vol charge density rhov, given P and V(x,y,z)", "pgNom":94}
+    ,{"ex":"D4.7 Find approx for E at different points, given plot with isotopic curves of V in xy-plane", "pgNom":}
+    ,{"ex":"D4.8 Find values at P (in rec coord) (V, E, dB/dN, an and rhov), given function for V", "pgNom":95}
+    ,{"ex":"D4.9 Find V at P, in different coordinates, given function for moment of electric dipole at origin", "pgNom":100}
+    ,{"ex":"D4.10 Find E at P (circ), given function for dipole at origin", "pgNom":100}
+    ,{"ex":"D4.11 Find energy stored in free-space, given V and region", "pgNom":104}
+    ,{"section":"5 Conductors and Dielectrics", "pgNom":109}
+    ,{"ex":"D5.1 Find current density at P, current flowing through body, given J and body geometry", "pgNom":111}
+    ,{"ex":"D5.2 Find current crossing surface in az direction, rhov, charge velocity, given J, region, charge velocity, volume charge density", "pgNom":113}
+    ,{"ex":"Ex 5.1 Find resistance of wire, given geometry and material", "pgNom":118}
+    ,{"ex":"D5.3 Find the abs of current density in material given material properties, thrift velocity, electric field intensity, voltage applied to sides of surface, current through surface,", "pgNom":118}
+    ,{"ex":"D5.4 Find resistance, current density, DC voltage between ends, power dissipated in wired, given body material, geometry, and current", "pgNom":118}
+    ,{"ex":"Ex 5.2 Find V, E, D, rhos at P, eq of conductor at surface, given function for V, P", "pgNom":121}
+    ,{"ex":"Ex 5.3 Find equation of teh streamline passing through P (given same things as Ex 5.2)", "pgNom":123}
+    ,{"ex":"D5.5 Find (at P on conductor surface) V, E, absE, absrhos, given function for V", "pgNom":123}
+    ,{"ex":"D5.6 Find V and E at P, given conducting plane and line of charge", "pgNom":126}
+    ,{"ex":"Ex 5.4 Find D, E and P everywhere, material and region", "pgNom":132}
+    ,{"ex":"D5.8 ", "pgNom":133}
+    ,{"ex":"Ex 5.5 Find fieldes within the material, given er, E and things from Ex 5.4", "pgNom":136}
+    ,{"ex":"D5.9 Find D in many regions, theta, P, given eps and regions", "pgNom":137}
+    ,{"ex":"D5.10 Find more D, given same things in D5.9", "pgNom":137}
+    ,{"section":"6 Capacitance", "pgNom":143}
+    ,{"ex":"Ex 6.1 Find capacitance of prl-plates, given epsilon, area, distance", "pgNom":146}
+    ,{"ex":"D6.1 Find rel. permit. of dielectric in prl-plate, given dimensions, voltage, energy, energy density, elec. field", "pgNom":147}
+    ,{"ex":"D6.2 Find capacitance of coax. cable, sphere and plates, given dimmensions and dielectric", "pgNom":150}
+    ,{"ex":"D6.3 Find C per length  and rhosmax of conducting cylinder, given voltage, epsilon, distance to ground", "pgNom":154}
+    ,{"ex":"D6.4 Find C per length of two circular cylinders, E, and rhos, given voltages and figure", "pgNom":159}
+    ,{"ex":"D6.5 [Poisson & Laplace] Find V and rhov at P, given functions for V", "pgNom":}
+    ,{"ex":"", "pgNom":}
+    ,{"ex":"", "pgNom":}
+    ,{"ex":"", "pgNom":}
+    ,{"ex":"", "pgNom":}
+    ,{"ex":"", "pgNom":}
+    ,{"ex":"", "pgNom":}
+    ,{"ex":"", "pgNom":}
+    
+]
